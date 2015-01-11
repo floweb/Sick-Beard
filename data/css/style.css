@@ -728,13 +728,13 @@ h2.network {
   background-color: #f5f1e4;
 }
 .listing-current {
-  background-color: #dfd;
+  background-color: #aaf0d1;
 }
 .listing-waiting {
   background-color: #9f9;
 }
 .listing-overdue {
-  background-color: #fdd;
+  background-color: #e37da1;
 }
 .listing-toofar {
   background-color: #ddf;
