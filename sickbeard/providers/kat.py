@@ -45,7 +45,7 @@ class KATProvider(generic.TorrentProvider):
 
         self.cache = KATCache(self)
 
-        self.url = 'http://katproxy.com/'
+        self.url = 'http://kat.cr/'
 
     def isEnabled(self):
         return sickbeard.KAT
